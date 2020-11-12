@@ -20,3 +20,5 @@ To get started with Gatsby on Now, you can use the [Gatsby CLI](https://www.gats
 ```shell
 $ gatsby new gatsby-site
 ```
+
+### Deploying From Your Terminal
