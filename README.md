@@ -26,3 +26,4 @@ $ gatsby new gatsby-site
 You can deploy your new Gatsby project, along with [Serverless Functions](https://zeit.co/docs/v2/serverless-functions/introduction), with a single command from your terminal using [Now CLI](https://zeit.co/download):
 
 ```shell
+$ now
