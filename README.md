@@ -27,3 +27,4 @@ You can deploy your new Gatsby project, along with [Serverless Functions](https:
 
 ```shell
 $ now
+```
