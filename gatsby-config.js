@@ -9,3 +9,4 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'Gatsby + Node.js (TypeScript) API',
+        short_name: 'Gatbsy + Node.js (TypeScript)',
