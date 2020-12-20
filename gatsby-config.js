@@ -13,3 +13,5 @@ module.exports = {
         start_url: '/',
         icon: 'src/images/gatsby-icon.png',
       },
+    },
+  ],
