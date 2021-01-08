@@ -1,2 +1,2 @@
 /**
- * Implement Ga
+ * Implement Gatsb
