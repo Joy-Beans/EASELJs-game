@@ -1,2 +1,2 @@
 /**
- * Implement Gatsby's Node
+ * Implement Gatsby's Node A
