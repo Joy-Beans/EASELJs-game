@@ -1,2 +1,2 @@
 /**
- * Implement Gatsby's Node API
+ * Implement Gatsby's Node APIs
