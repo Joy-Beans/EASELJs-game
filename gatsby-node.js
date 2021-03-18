@@ -1,4 +1,4 @@
 /**
  * Implement Gatsby's Node APIs in this file.
  *
- * See: https://www.gatsbyjs
+ * See: https://www.gatsbyjs.
