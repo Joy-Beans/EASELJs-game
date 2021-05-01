@@ -4,4 +4,4 @@
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 
-// You can delete this fil
+// You can delete this file 
