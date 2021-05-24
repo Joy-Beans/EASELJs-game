@@ -1,2 +1,2 @@
 /**
- * Implement Gat
+ * Implement Gats
