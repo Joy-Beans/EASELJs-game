@@ -1,2 +1,2 @@
 /**
- * Implement Gats
+ * Implement Gatsb
