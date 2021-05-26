@@ -1,2 +1,2 @@
 /**
- * Implement Gatsby'
+ * Implement Gatsby's
