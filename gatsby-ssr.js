@@ -1,2 +1,2 @@
 /**
- * Implement Gatsby's SS
+ * Implement Gatsby's SSR
