@@ -1,2 +1,2 @@
 /**
- * Implement Gatsby's SSR (Ser
+ * Implement Gatsby's SSR (Serv
