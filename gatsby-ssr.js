@@ -1,2 +1,2 @@
 /**
- * Implement Gatsby's SSR (Server Side Rendering) APIs in t
+ * Implement Gatsby's SSR (Server Side Rendering) APIs in this
