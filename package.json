@@ -18,3 +18,4 @@
     "dev": "gatsby develop",
     "build": "gatsby build"
   }
+}
