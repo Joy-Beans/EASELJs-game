@@ -6,3 +6,4 @@ import '../styles/index.css';
 function Index() {
   const [date, setDate] = useState(null);
   useEffect(() => {
+    async function getDate() {
