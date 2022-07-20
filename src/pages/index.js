@@ -9,3 +9,4 @@ function Index() {
     async function getDate() {
       const res = await fetch('/api/date');
       const newDate = await res.text();
+      setDate(newDate);
