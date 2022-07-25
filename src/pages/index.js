@@ -11,3 +11,4 @@ function Index() {
       const newDate = await res.text();
       setDate(newDate);
     }
+    getDate();
