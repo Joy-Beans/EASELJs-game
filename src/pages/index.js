@@ -12,3 +12,4 @@ function Index() {
       setDate(newDate);
     }
     getDate();
+  }, []);
