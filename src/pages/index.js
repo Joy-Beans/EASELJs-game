@@ -16,3 +16,5 @@ function Index() {
   return (
     <main>
       <Helmet>
+        <title>Indie Hackers PR</title>
+      </Helmet>
