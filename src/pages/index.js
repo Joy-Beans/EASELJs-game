@@ -21,3 +21,5 @@ function Index() {
       <h1>Indie Hackers Puerto Rico</h1>
       <h2>
         Comunidad de Slack
+      <a href="https://indiehackerspr.herokuapp.com/">Comunidad de Slack!</a>
+      </h2>
