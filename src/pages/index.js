@@ -18,3 +18,6 @@ function Index() {
       <Helmet>
         <title>Indie Hackers PR</title>
       </Helmet>
+      <h1>Indie Hackers Puerto Rico</h1>
+      <h2>
+        Comunidad de Slack
