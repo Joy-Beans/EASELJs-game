@@ -25,3 +25,4 @@ function Index() {
       </h2>
     </main>
   );
+}
