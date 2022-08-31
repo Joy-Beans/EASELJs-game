@@ -23,3 +23,5 @@ function Index() {
         Comunidad de Slack
       <a href="https://indiehackerspr.herokuapp.com/">Comunidad de Slack!</a>
       </h2>
+    </main>
+  );
