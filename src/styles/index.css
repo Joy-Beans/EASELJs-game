@@ -27,3 +27,5 @@ a {
   color: #0076ff;
   cursor: pointer;
   text-decoration: none;
+  transition: all 0.2s ease;
+}
