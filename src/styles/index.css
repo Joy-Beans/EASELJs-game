@@ -24,3 +24,6 @@ p {
 }
 a {
   border-bottom: 1px solid white;
+  color: #0076ff;
+  cursor: pointer;
+  text-decoration: none;
