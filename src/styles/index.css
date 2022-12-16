@@ -41,3 +41,4 @@ pre {
 }
 code:before,
 code:after {
+  content: '\`';
